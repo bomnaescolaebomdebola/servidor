@@ -1,0 +1,12 @@
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\obj\Debug\netcoreapp2.0\ServidorForcaDeVendas.csproj.CoreCompileInputs.cache
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\obj\Debug\netcoreapp2.0\ServidorForcaDeVendas.AssemblyInfoInputs.cache
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\obj\Debug\netcoreapp2.0\ServidorForcaDeVendas.AssemblyInfo.cs
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\bin\Debug\netcoreapp2.0\ServidorForcaDeVendas.deps.json
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\bin\Debug\netcoreapp2.0\ServidorForcaDeVendas.runtimeconfig.json
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\bin\Debug\netcoreapp2.0\ServidorForcaDeVendas.runtimeconfig.dev.json
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\bin\Debug\netcoreapp2.0\ServidorForcaDeVendas.dll
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\bin\Debug\netcoreapp2.0\ServidorForcaDeVendas.pdb
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\bin\Debug\netcoreapp2.0\Model.dll
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\bin\Debug\netcoreapp2.0\Model.pdb
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\obj\Debug\netcoreapp2.0\ServidorForcaDeVendas.dll
+D:\GSOFT\ForcaDeVenda\ServidorForcaDeVendas\obj\Debug\netcoreapp2.0\ServidorForcaDeVendas.pdb
