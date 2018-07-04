@@ -1,0 +1,5 @@
+F:\TCC POS\Servidor\Servidor
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Servidor
+--content-root=F:\TCC POS\Servidor\Servidor
+--file=

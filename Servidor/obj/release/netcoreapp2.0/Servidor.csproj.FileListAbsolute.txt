@@ -1,0 +1,14 @@
+F:\TCC POS\Servidor\Servidor\bin\release\netcoreapp2.0\Servidor.deps.json
+F:\TCC POS\Servidor\Servidor\bin\release\netcoreapp2.0\Servidor.runtimeconfig.json
+F:\TCC POS\Servidor\Servidor\bin\release\netcoreapp2.0\Servidor.runtimeconfig.dev.json
+F:\TCC POS\Servidor\Servidor\bin\release\netcoreapp2.0\Servidor.dll
+F:\TCC POS\Servidor\Servidor\bin\release\netcoreapp2.0\Servidor.pdb
+F:\TCC POS\Servidor\Servidor\bin\release\netcoreapp2.0\Model.dll
+F:\TCC POS\Servidor\Servidor\bin\release\netcoreapp2.0\Model.pdb
+F:\TCC POS\Servidor\Servidor\obj\release\netcoreapp2.0\Servidor.csprojAssemblyReference.cache
+F:\TCC POS\Servidor\Servidor\obj\release\netcoreapp2.0\Servidor.csproj.CoreCompileInputs.cache
+F:\TCC POS\Servidor\Servidor\obj\release\netcoreapp2.0\Servidor.AssemblyInfoInputs.cache
+F:\TCC POS\Servidor\Servidor\obj\release\netcoreapp2.0\Servidor.AssemblyInfo.cs
+F:\TCC POS\Servidor\Servidor\obj\release\netcoreapp2.0\Servidor.csproj.CopyComplete
+F:\TCC POS\Servidor\Servidor\obj\release\netcoreapp2.0\Servidor.dll
+F:\TCC POS\Servidor\Servidor\obj\release\netcoreapp2.0\Servidor.pdb

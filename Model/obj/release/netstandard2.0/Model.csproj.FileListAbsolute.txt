@@ -1,0 +1,9 @@
+F:\TCC POS\Servidor\Model\bin\release\netstandard2.0\Model.deps.json
+F:\TCC POS\Servidor\Model\bin\release\netstandard2.0\Model.dll
+F:\TCC POS\Servidor\Model\bin\release\netstandard2.0\Model.pdb
+F:\TCC POS\Servidor\Model\obj\release\netstandard2.0\Model.csprojAssemblyReference.cache
+F:\TCC POS\Servidor\Model\obj\release\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+F:\TCC POS\Servidor\Model\obj\release\netstandard2.0\Model.AssemblyInfoInputs.cache
+F:\TCC POS\Servidor\Model\obj\release\netstandard2.0\Model.AssemblyInfo.cs
+F:\TCC POS\Servidor\Model\obj\release\netstandard2.0\Model.dll
+F:\TCC POS\Servidor\Model\obj\release\netstandard2.0\Model.pdb

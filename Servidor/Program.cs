@@ -15,16 +15,25 @@ namespace Servidor
     {
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
-       
+         //   BuildWebHost(args).Run();
+          var config = new ConfigurationBuilder().AddCommandLine(args).Build();
+    var host = new WebHostBuilder()
+        .UseKestrel()
+        .UseContentRoot(Directory.GetCurrentDirectory())
+        .UseConfiguration(config)
+        .UseIISIntegration()
+        .UseStartup<Startup>()
+        .Build();
+
+    host.Run();
         }
 
-        public static IWebHost BuildWebHost(string[] args) =>
+       /* public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .UseIISIntegration()
                 .UseUrls("http://0.0.0.0:5123")
                 .Build();
-        
+        */
     }
 }
