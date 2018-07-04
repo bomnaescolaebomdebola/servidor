@@ -8,11 +8,11 @@ using Microsoft.AspNetCore.Mvc;
 namespace Servidor.Controllers
 {
     [Route("api/[controller]")]
-    public class TesteController : ControllerBase
+    public class AlunoController : ControllerBase
     {
-        private Model.Repository.IRepositoryMongo<Model.Voluntario.Voluntario> repository;
+        private Model.Repository.IRepositoryMongo<Model.Aluno.Aluno> repository;
 
-        public TesteController(Model.Repository.IRepositoryMongo<Model.Voluntario.Voluntario> repository)
+        public AlunoController(Model.Repository.IRepositoryMongo<Model.Aluno.Aluno> repository)
         {
             this.repository = repository;
         }
@@ -36,7 +36,7 @@ namespace Servidor.Controllers
 
         // POST api/values
         [HttpPost]
-        public IActionResult Post([FromBody]Model.Voluntario.Voluntario value)
+        public IActionResult Post([FromBody]Model.Aluno.Aluno value)
         {
             try
             {
@@ -55,7 +55,7 @@ namespace Servidor.Controllers
 
         // PUT api/values/5
         [HttpPut("{id}")]
-        public IActionResult Put(String id, [FromBody]Model.Voluntario.Voluntario value)
+        public IActionResult Put(String id, [FromBody]Model.Aluno.Aluno value)
         {
             try
             {
