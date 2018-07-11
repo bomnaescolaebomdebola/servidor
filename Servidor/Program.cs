@@ -16,15 +16,16 @@ namespace Servidor
         public static void Main(string[] args)
         {
          //   BuildWebHost(args).Run();
-          var config = new ConfigurationBuilder().AddCommandLine(args).Build();
-    var host = new WebHostBuilder()
-        .UseKestrel()
-        .UseContentRoot(Directory.GetCurrentDirectory())
-        .UseConfiguration(config)
-        .UseIISIntegration()
-        .UseStartup<Startup>()
+        var config = new ConfigurationBuilder()
+        .AddCommandLine(args)
         .Build();
 
+    var host = new WebHostBuilder()
+        .UseKestrel()
+        .UseConfiguration(config)
+        .UseContentRoot(Directory.GetCurrentDirectory())
+        .UseStartup<Startup>()
+        .Build();
     host.Run();
         }
 
